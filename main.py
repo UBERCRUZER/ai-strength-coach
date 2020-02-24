@@ -65,9 +65,6 @@ def getMultiplier():
     #plt.tight_layout()
     ## ----------------------------------------------------------------------------
     
-    
-    
-    
     # We need the activation of our fuzzy membership functions at these values.
     # This is what fuzz.interp_membership exists for!
     

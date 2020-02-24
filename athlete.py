@@ -5,8 +5,6 @@ Created on Tue Mar 12 13:49:07 2019
 @author: cruze
 """
 
-#import skfuzzy as fuzz
-#from skfuzzy import control as ctrl
 
 class Athlete:
         

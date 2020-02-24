@@ -5,7 +5,6 @@ Created on Tue Mar 12 19:12:28 2019
 @author: cruze
 """
 
-
 class Workout:
     def __init__(self, pct, repScheme):
         self.pct = pct
